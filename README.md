@@ -2,7 +2,7 @@
 
 <br />
 
-⚡ Hi, I'm Naim Malek, a Full Stack Developer 🚀.
+⚡ Hi, I'm Naim Malek, a Full-Stack Engineer 🚀.
 <br />
 
 ---
